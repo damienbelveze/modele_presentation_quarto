@@ -1,0 +1,167 @@
+---
+title: "how to avoid the publication trap"
+subtitle: "predatory open access publishers"
+date: 12/04/2024
+author: 
+    - name: Damien Belvèze
+      email: damien.belveze@univ-rennes.fr
+      affiliation: 
+        - name: Université de Rennes
+          city: Rennes
+
+format: 
+    revealjs:
+        slide-number: c/t
+#        show-slide-number: # print
+#       show-notes: separate-page
+        embed-resources: true
+        transition: convex
+        from: markdown+emoji
+        theme: [dark, monstyle.css]
+        reveal_plugins: [menu]
+        reveal_options: 
+          menu: 
+            numbers: true
+
+bibliography: references.bib
+csl: apa.csl
+---
+
+#  {background-color="#fef1da"}
+
+::: columns
+::: {.column .incremental width="70%"}
+-   first item
+-   second item
+-   third item
+-   fourth item
+:::
+
+:::{.notes}
+notes pour le présentateur
+:::
+
+::: {.column width="30%"}
+![caption](images/image.png)
+:::
+:::
+
+## outline {background-color="#fef1da"}
+
+:::{.incremental}
+1. Predators and Imposters
+2. The definition challenge
+3. How can we recognize predatory practices in publishers offers?
+4. why some researchers willingly used journals considered as predatory?
+5. The grey zone
+6. The compass to publish
+:::
+
+
+## {background-color="#fef1da"}
+
+::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+[1. première partie]{.title}
+:::
+
+::: {.column width="50%"}
+![38% profit margin](images/image2.png){#fig-image2 width="100%"}
+:::
+:::
+
+::: {.notes}
+deuxième note
+:::
+
+
+
+
+## a light definition {background-color="#fef1da"}
+
+:::{.blockquote}
+citation
+:::
+
+:notebook: @referencebib
+
+
+
+##  {background-iframe="https://digiboard.app/b/061c10526e4a2"}
+
+:::{.notes}
+lien vers un board de la Digitale
+:::
+
+## nouvelle partie {background-color="#fef1da"}
+
+
+:::{.blockquote .incremental}
+- first item
+- second item
+- third item
+:::
+
+## non-transparent peer review {background-color="#fef1da"}
+
+:::{.incremental .r-fit-text}
+long text .r-fit-text permet de le faire tenir dans la slide en adaptant automatique la taille de la police
+:::
+:::{.notes}
+notes
+:::
+
+
+## {background-iframe="https://damienbelveze.github.io/nom_repo/exemple-h5p.html"}
+
+## {background-color="#fef1da"}
+
+in case this quiz would not work in the presentation, you may [play it online](https://damienbelveze.github.io/predatory_OA/hijacked_journal.html)
+
+
+:::
+
+## Why some researchers consciously publish their results in predatory journals {background-color="#fef1da"}
+
+:::{.r-fit-text}
+::::{.incremental}
+- item 1
+- item 2
+- item 3
+- item 4
+::::
+:::
+
+:::{.notes}
+note 
+
+> longue citation
+
+:notebook: @referencebib
+:::
+
+
+
+## figures {.smaller}
+
+:::{.scrollable}
+| figure               | source et crédits       |                                                                    
+|:-----------------------------------|:-----------------------------------|
+| @fig-image1 | [Research Professional News](lien vers le fichier) |
+
+:::
+
+
+## software used for this presentation
+
+Most part of the software used for this presentation are **"libre" software**
+
+- Quarto 1.3.450
+-   VScode 1.8.0
+-   Rstudio 2023.03.0
+-   H5p
+-   Digitale's H5P editor (logiquiz) and board (digiboard)
+
+
+
+## Références {background-color="#fef1da"}
